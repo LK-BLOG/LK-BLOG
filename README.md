@@ -42,6 +42,10 @@
 
 > ⚠️ 注意：PyClaw 和 MollyPaw 是两个独立项目，定位不同，并非同一生态的技术栈组合。
 
+### 贡献
+ 
+![GitHub 贡献图](https://github-readme-stats-xi-ivory.vercel.app/api?username=LK-BLOG)
+
 ### 🏆 活动轨迹
 
 [![LK-BLOG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LK-BLOG&theme=react)](https://github.com/LK-BLOG)
