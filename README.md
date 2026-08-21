@@ -29,7 +29,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Agent 工具集（收集癖已上线）**
-目前装机 12 个：MiniMax Code、OpenClaw、MollyPaw、PyClaw Lite、PyClaw、Codex、OpenHanako、Hermes、OpenCode、Claude Code CLI、Claude Desktop、DeepSeek++
+目前装机 14+ 个：MiniMax Code、OpenClaw、MollyPaw、PyClaw Lite、PyClaw、Codex、OpenHanako、Hermes、OpenCode、Claude Code CLI、Claude Desktop、DeepSeek++、MimoCode、DSH……
 
 ### 📁 核心项目
 
