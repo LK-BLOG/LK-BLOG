@@ -46,10 +46,6 @@
  
 ![GitHub 贡献图](https://github-readme-stats-xi-ivory.vercel.app/api?username=LK-BLOG)
 
-### 🏆 活动轨迹
-
-[![LK-BLOG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LK-BLOG&theme=react)](https://github.com/LK-BLOG)
-
 ---
 
 <p align="center">
