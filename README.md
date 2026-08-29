@@ -44,8 +44,10 @@
 
 ### 最近动态
 2026/8/29：
-1.更新PyClaw中记忆系统的默认存储路径&Skill清理
-2.更新LK-BLOG/LK-BLOG的README.md
+
+1. 更新PyClaw中记忆系统的默认存储路径&Skill清理
+
+2. 更新LK-BLOG/LK-BLOG的README.md
 
 ### 贡献
  
