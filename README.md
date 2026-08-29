@@ -42,13 +42,6 @@
 
 > ⚠️ 注意：PyClaw 和 MollyPaw 是两个独立项目，定位不同，并非同一生态的技术栈组合。
 
-### 最近动态
-2026/8/29：
-
-1. 更新PyClaw中记忆系统的默认存储路径&Skill清理
-
-2. 更新LK-BLOG/LK-BLOG的README.md
-
 ### 贡献
  
 ![GitHub 贡献图](https://github-readme-stats-xi-ivory.vercel.app/api?username=LK-BLOG)
