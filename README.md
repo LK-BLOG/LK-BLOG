@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/LK-BLOG"><img src="https://img.shields.io/badge/GitHub-LK--BLOG-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://w99.site/pyclaw"><img src="https://img.shields.io/badge/PyClaw-官网-4FC08D?style=flat-square" alt="PyClaw"></a>
+  <a href="https://pyclaw.pages.dev"><img src="https://img.shields.io/badge/PyClaw-官网-4FC08D?style=flat-square" alt="PyClaw"></a>
   <a href="https://space.bilibili.com/129131127"><img src="https://img.shields.io/badge/B站-无人机与AI-00A2D8?style=flat-square&logo=bilibili" alt="B站"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LK-BLOG.LK-BLOG" alt="访问数">
 </p>
@@ -41,6 +41,11 @@
 | [**pyclaw-lite**](https://github.com/LK-BLOG/pyclaw-lite) | PyClaw 轻量版 | Python | ![Stars](https://img.shields.io/github/stars/LK-BLOG/pyclaw-lite?style=social) |
 
 > ⚠️ 注意：PyClaw 和 MollyPaw 是两个独立项目，定位不同，并非同一生态的技术栈组合。
+
+### 最近动态
+2026/8/29：
+1.更新PyClaw中记忆系统的默认存储路径&Skill清理
+2.更新LK-BLOG/LK-BLOG的README.md
 
 ### 贡献
  
